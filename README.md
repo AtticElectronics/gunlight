@@ -5,7 +5,7 @@ YouTube에서 총으로 불을 끄는 영상 관련 코드 및 자료입니다.
 
 # 제작 방법 및 팁
 1. 소음기 제작
-![Uploading img.jpg…]()
+![img](https://github.com/AtticElectronics/gunlight/assets/128982852/2d919b8c-1e8c-48d8-8960-02293305b04d)
 
 1) gunlight.3mf 파일로 3D 모델링을 출력합니다.
 2) 조립 시, 소음기-내부지지.stl 파일에 LR44 배터리 홀더를 사진과 같은 위치에 두고 순간접착제로 부착합니다. 홈이 있어 위치 잡기가 수월합니다.
